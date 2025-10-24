@@ -1,5 +1,7 @@
 # AWS Cost Governance Kit
 
+[![CI](https://github.com/mikeshobes718/aws-cost-governance-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/mikeshobes718/aws-cost-governance-kit/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 FinOps automation for AWS: inventory + tag policy checks, unused AMI/EBS cleanup, stranded resource reports; report/dry-run/execute modes.
 
 ## Features
